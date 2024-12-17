@@ -1,0 +1,25 @@
+# Build output directories
+bin/
+obj/
+
+# MonoGame Content Pipeline intermediate files
+*.mgcb
+*.mglog
+
+# Visual Studio specific files
+.vs/
+*.user
+*.suo
+
+# Visual Studio Code specific files
+.vscode/
+
+# MonoGame Cache
+*.cache
+
+# Temporary files
+*.tmp
+*.temp
+*.log
+
+# Compiled files
